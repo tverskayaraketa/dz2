@@ -15,7 +15,5 @@ int main()
 
     //ex_2();
 
-    //ex_3();
-
     return 0;
 }
